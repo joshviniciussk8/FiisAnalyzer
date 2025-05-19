@@ -9,7 +9,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FiiAnalyzer.Core", "FiiAnal
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FiiAnalyzer.Infrastructure", "FiiAnalyzer.Infrastructure\FiiAnalyzer.Infrastructure.csproj", "{9111423D-10CB-48F8-8BBF-0335C447604C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FiiAnalyzer.UI", "FiiAnalyzer.UI\FiiAnalyzer.UI.csproj", "{E89C7111-854B-4366-92A6-49ADF72BD942}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FiiAnalyzer.Console", "FiiAnalyzer.UI\FiiAnalyzer.Console.csproj", "{E89C7111-854B-4366-92A6-49ADF72BD942}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FiiAnalyzer.Utils", "FiiAnalyzer.Utils\FiiAnalyzer.Utils.csproj", "{AF03C93F-4A68-4318-A650-29CD381FB8CA}"
 EndProject
