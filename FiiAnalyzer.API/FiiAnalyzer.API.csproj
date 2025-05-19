@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.6.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\FiiAnalyzer.Core\FiiAnalyzer.Core.csproj" />
+    <ProjectReference Include="..\FiiAnalyzer.Infrastructure\FiiAnalyzer.Infrastructure.csproj" />
+    <ProjectReference Include="..\FiiAnalyzer.Shared\FiiAnalyzer.Shared.csproj" />
+    <ProjectReference Include="..\FiiAnalyzer.Utils\FiiAnalyzer.Utils.csproj" />
+  </ItemGroup>
+
+</Project>

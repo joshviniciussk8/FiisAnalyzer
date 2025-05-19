@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\FiiAnalyzer.Core\FiiAnalyzer.Core.csproj" />
+    <ProjectReference Include="..\FiiAnalyzer.Infrastructure\FiiAnalyzer.Infrastructure.csproj" />
+    <ProjectReference Include="..\FiiAnalyzer.Shared\FiiAnalyzer.Shared.csproj" />
+    <ProjectReference Include="..\FiiAnalyzer.Utils\FiiAnalyzer.Utils.csproj" />
+  </ItemGroup>
+
+</Project>
